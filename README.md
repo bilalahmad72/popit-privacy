@@ -1,7 +1,17 @@
-# Pop It Fidget Toy - Privacy Policy
+# Pop It Fidget Toys - Privacy Policy
 
-To be published at https://bilalahmad72.github.io/popit-privacy/
+Privacy policy for **Pop It Fidget Toys: Antistress** (Android), published by Appo Soft.
 
-Publish: create a public GitHub repo `popit-privacy`, add `index.html`, then
-Settings > Pages > Deploy from branch `main` / root. Paste the URL above into
-Play Console > App content > Privacy policy, and into the store listing.
+**Live page:** https://bilalahmad72.github.io/popit-privacy/
+
+Use this URL in Google Play Console:
+- App content > Privacy policy
+- Store presence > Store settings (if a privacy link is asked there)
+
+## Update the policy
+
+1. Edit `index.html` (keep the same layout; change the "Last updated" date).
+2. Commit and push to `main`.
+3. GitHub Pages publishes the change in about a minute.
+
+Contact: bilalferoze98@gmail.com
